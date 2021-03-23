@@ -1,3 +1,3 @@
 # git_lecture
-
+서정찬
 김민욱
